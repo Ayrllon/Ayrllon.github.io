@@ -172,7 +172,7 @@ footer p {
     margin-top: 10px;
     font-size: 18px;
     font-weight: bold;
-    color: #fff;
+    color:red;
 }
 
 .icons {
@@ -199,7 +199,6 @@ footer img {
 
     .navbar p {
         padding-bottom: 15px;
-
     }
 
     .grow {
